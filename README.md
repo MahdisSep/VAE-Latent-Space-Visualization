@@ -47,7 +47,7 @@ The calculated **PSNR** and **SSIM** values provide an objective measure of the 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/MahdisSep/VAE-Latent-Space-Visualization.git]
     cd VAE-Latent-Space-Visualization
     ```
 2.  **Install Dependencies:**
@@ -56,17 +56,3 @@ The calculated **PSNR** and **SSIM** values provide an objective measure of the 
     ```
 3.  **Execute:** Run the `HW3_q1.ipynb` notebook in an environment supporting PyTorch (preferably with GPU acceleration) to load the MNIST data, train the VAE, generate new samples, and visualize the latent space using t-SNE.
 ````
-
------
-
-## 3\. Commit Message
-
-```
-feat: Implement Variational Autoencoder (VAE) for Generative Modeling and Latent Space Analysis
-
-Initial commit for the VAE project using PyTorch.
-
-- Developed a convolutional VAE architecture with the Reparameterization Trick.
-- Implemented the VAE combined loss function (Reconstruction Loss + KL Divergence).
-- Conducted t-SNE analysis to visualize the 2D latent space clustering of MNIST digits.
-- Evaluated reconstruction quality using PSNR and SSIM metrics.

@@ -1,17 +1,3 @@
-## 1\. Repository Name and Description
-
-| Item | English Content |
-| :--- | :--- |
-| **Repo Name** | **`VAE-Latent-Space-Visualization`** |
-| **Description** | **`Implementation and analysis of a Conditional Variational Autoencoder (CVAE) in PyTorch for generating MNIST digits. Includes visualization of the 2D latent space using t-SNE and reconstruction quality assessment via PSNR/SSIM.`** |
-
------
-
-## 2\. Comprehensive README.md
-
-This README emphasizes the theoretical and practical aspects of the VAE and its latent space analysis.
-
-```markdown
 # 🌌 Variational Autoencoders (VAE) and Latent Space Analysis with PyTorch
 
 ## 📝 Overview

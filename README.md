@@ -43,6 +43,17 @@ The calculated **PSNR** and **SSIM** values provide an objective measure of the 
 
 ````
 
+### showcase
+
+![images](https://github.com/MahdisSep/VAE-Latent-Space-Visualization/blob/main/results/results1.png)
+![images](https://github.com/MahdisSep/VAE-Latent-Space-Visualization/blob/main/results/results2.png)
+![images](https://github.com/MahdisSep/VAE-Latent-Space-Visualization/blob/main/results/results3.png)
+![images](https://github.com/MahdisSep/VAE-Latent-Space-Visualization/blob/main/results/results4.png)
+![images](https://github.com/MahdisSep/VAE-Latent-Space-Visualization/blob/main/results/results5.png)
+![images](https://github.com/MahdisSep/VAE-Latent-Space-Visualization/blob/main/results/results6.png)
+
+-----
+
 ## ⚙️ How to Run
 
 1.  **Clone the Repository:**

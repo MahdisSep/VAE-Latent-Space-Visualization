@@ -66,4 +66,3 @@ The calculated **PSNR** and **SSIM** values provide an objective measure of the 
     pip install torch torchvision numpy matplotlib scikit-learn scikit-image
     ```
 3.  **Execute:** Run the `HW3_q1.ipynb` notebook in an environment supporting PyTorch (preferably with GPU acceleration) to load the MNIST data, train the VAE, generate new samples, and visualize the latent space using t-SNE.
-````
